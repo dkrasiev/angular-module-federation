@@ -1,1 +1,1 @@
-declare module 'about/Component'
+declare module 'about/Component';
